@@ -1,0 +1,18 @@
+{
+  "name": "@spalger/fromnode",
+  "version": "0.0.0",
+  "description": "extraction of Bluebird's fromNode method",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r babel/register test"
+  },
+  "keywords": [],
+  "author": "Spencer Alger <email@spalger.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "babel-eslint": "^4.1.3",
+    "eslint": "^1.5.1",
+    "eslint-config-airbnb": "^0.1.0",
+    "mocha": "^2.3.3"
+  }
+}
