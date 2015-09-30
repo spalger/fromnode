@@ -1,6 +1,6 @@
 {
   "name": "@spalger/fromnode",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "extraction of Bluebird's fromNode method",
   "main": "index.js",
   "scripts": {
